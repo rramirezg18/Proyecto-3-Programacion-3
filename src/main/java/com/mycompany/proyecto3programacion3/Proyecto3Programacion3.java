@@ -11,6 +11,9 @@ package com.mycompany.proyecto3programacion3;
 public class Proyecto3Programacion3 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // Crear la vista
+        InterfazGrafica interfaz = new InterfazGrafica();
+        // Crear el controlador
+        new FuncionesHojaDeCalculo(interfaz);
     }
 }

@@ -257,7 +257,7 @@ public class FuncionesHojaDeCalculo {
                     int clave = Integer.parseInt(claveString);
                     int indice = nuevaTablaHash.buscar(clave);
                     tablaHash.setValueAt(indice, i, 1);
-                    System.out.println("Clave: " + clave + ", Índice Hash: " + indice); // Depuración
+                    //System.out.println("Clave: " + clave + ", Índice Hash: " + indice); // Depuración
                 } catch (NumberFormatException ex) {
                     JOptionPane.showMessageDialog(interfaz, "Por favor, ingrese valores válidos en la columna de clave.");
                 }
