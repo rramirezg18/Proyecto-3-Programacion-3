@@ -9,7 +9,6 @@
 #### Jonathan Joel Chan Cuellar 7690-22-1805
 ---
 [ENLACE A MANUAL TÉCNICO DEL PROYECTO](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Manual%20T%C3%A9cnico.md)
-
 ---
 ---
 # Manual de Usuario: Proyecto Hoja de Cálculo
