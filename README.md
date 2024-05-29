@@ -1,27 +1,28 @@
 <div align="center">
-<h1><strong>PROYECTO 3 PROGRAMACION 3</strong></h1>
+<h1><strong>PROYECTO 3 PROGRAMACIÓN 3</strong></h1>
 </div>
-# **Proyecto desarrollado por:**
+#**Proyecto desarrollado por:**
 
-#### Roberto Antonio Ramirez Gomez 7690-22-12700
+#### Roberto Antonio Ramírez Gómez 7690-22-12700
 
 #### Jean Klaus Castañeda Santos 7690-22-892
 
-#### Jonathan Joel Chan Cuellar 7690-22-1805
+#### Jonathan Joel Chán Cuellar 7690-22-1805
 ---
 **ENLACES**
+
 [**VIDEO DE PRUEBAS Y RESULTADOS**](https://youtu.be/tuLrkigF4q4)
 
 [**ENLACE PARA VER EL MANUAL DE USUARIO**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Manual%20Usuario.md "MANUAL DE USUARIO")
 
-[**ENLACE PARA VER EL MANUAL TECNICO**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Manual%20T%C3%A9cnico.md "MANUAL TECNICO")
+[**ENLACE PARA VER EL MANUAL TÉCNICO**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Manual%20T%C3%A9cnico.md "MANUAL TECNICO")
 
-[**ENLACE PARA VER LA DOCUMENTACION**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Documentacion.md "DOCUMENTACION DEL PROYECTO")
+[**ENLACE PARA VER LA DOCUMENTACIÓN**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Documentacion.md "DOCUMENTACION DEL PROYECTO")
 
 ---
 ---
 
-## Descripcion Del Proyecto:
+## Descripción Del Proyecto:
 El proyecto se centra en el desarrollo de una hoja de cálculo similar a Excel, utilizando matrices ortogonales para representar las celdas y almacenar sus datos. Implementará el patrón de diseño Modelo-Vista-Controlador (MVC) y permitirá realizar operaciones básicas como suma y multiplicación. Además, incluirá la capacidad de crear múltiples hojas internas y generar tablas hash utilizando un algoritmo propio. Opcionalmente, se puede agregar la funcionalidad de guardar y cargar datos en almacenamiento secundario.
 **El proyecto incluira las siguientes clases:**
 - #### Celda.Java
