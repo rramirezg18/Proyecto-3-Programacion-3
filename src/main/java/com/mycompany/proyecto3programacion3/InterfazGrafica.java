@@ -81,7 +81,7 @@ public class InterfazGrafica extends JFrame {
         botonNuevaHoja = new JMenuItem("Nueva Hoja");
         botonTablaHash = new JMenuItem("Tabla Hash");
         botonGuardar = new JMenuItem("Guardar");
-        botonAbrir = new JMenuItem("Cargar");
+        botonAbrir = new JMenuItem("Abrir");
         menuArchivo.add(botonNuevaHoja);
         menuArchivo.add(botonTablaHash);
         menuArchivo.add(botonGuardar);

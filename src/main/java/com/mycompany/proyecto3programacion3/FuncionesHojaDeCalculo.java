@@ -119,7 +119,7 @@ public class FuncionesHojaDeCalculo {
         }
     }
  
-    private void realizarOperacion(String referenciaResultado, String[] operandos, String operacion) {
+    /**private void realizarOperacion(String referenciaResultado, String[] operandos, String operacion) {
         try {
             int[] indiceResultado = Referencias.convertirReferencia(referenciaResultado);
             double resultado = 0;
@@ -173,7 +173,7 @@ public class FuncionesHojaDeCalculo {
         } catch (ArithmeticException ex) {
             JOptionPane.showMessageDialog(interfaz, "Error al realizar la operación: " + ex.getMessage());
         }
-    }
+    }**/
     //Metodo para guardar la hoja de calculo en la memoria del sistema
     private void guardarDatos() {
         JFileChooser fileChooser = new JFileChooser();
