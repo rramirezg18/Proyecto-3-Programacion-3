@@ -1,7 +1,8 @@
 <div align="center">
 <h1><strong>PROYECTO 3 PROGRAMACIÓN 3</strong></h1>
 </div>
-#**Proyecto desarrollado por:**
+
+# **Proyecto desarrollado por:**
 
 #### Roberto Antonio Ramírez Gómez 7690-22-12700
 
