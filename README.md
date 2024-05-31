@@ -12,13 +12,13 @@
 ---
 **ENLACES**
 
-[**VIDEO DE PRUEBAS Y RESULTADOS**](https://youtu.be/tuLrkigF4q4)
-
 [**ENLACE PARA VER EL MANUAL DE USUARIO**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Manual%20Usuario.md "MANUAL DE USUARIO")
 
 [**ENLACE PARA VER EL MANUAL TÉCNICO**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Manual%20T%C3%A9cnico.md "MANUAL TECNICO")
 
 [**ENLACE PARA VER LA DOCUMENTACIÓN**](https://github.com/rramirezg18/Proyecto-3-Programacion-3/blob/main/Documentacion.md "DOCUMENTACION DEL PROYECTO")
+
+[**VIDEO DE PRUEBAS Y RESULTADOS**](https://youtu.be/jF8VFm_WxkY)
 
 ---
 ---
