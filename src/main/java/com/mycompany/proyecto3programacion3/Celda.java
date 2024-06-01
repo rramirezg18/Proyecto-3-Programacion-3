@@ -5,8 +5,12 @@
 package com.mycompany.proyecto3programacion3;
 
 /**
- *
- * @author ianto
+ *El proyecto consiste en realizar una hoja de calculo y resolver expresiones aritmeticas. Y crear una tabla hash
+ * Clase Celda
+ * Desarrollado por:
+ * Roberto Ramirez
+ * Jean Castañeda
+ * Jonathan Chan
  */
 import java.io.Serializable;
 
